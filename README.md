@@ -1,4 +1,4 @@
-# NarrativeSync: Combine Storytelling with Executable Logic
+# NarrativeSync: Combine Storytelling with Prompy and Executable Logic
 
 **White Paper v1.0.0**
 **Author:** Rogério Figurelli
